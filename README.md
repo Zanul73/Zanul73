@@ -69,6 +69,5 @@ Here are some ideas to get you started:
 ---
 
 ### 💡 Quote of the day:
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 ---
