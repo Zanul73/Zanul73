@@ -68,6 +68,5 @@ Here are some ideas to get you started:
 
 ---
 
-### 💡 Quote of the day:
 
----
+
